@@ -68,13 +68,59 @@ hl.bind("SUPER + SHIFT + H", hl.dsp.global("quickshell:minimizeRestoreLast"), {d
 
 ## Atalhos
 
+**Deste rice**
+
 | Tecla | Ação |
 |---|---|
 | Super+M | Player de música |
 | Super+Esc | Menu de energia em pílula |
-| Ctrl+Alt+Del | Menu de sessão completo |
-| Ctrl+Super+T | Escolher wallpaper |
 | Super+H / Super+Shift+H | Minimizar / restaurar |
+
+**Shell**
+
+| Tecla | Ação |
+|---|---|
+| Super | Busca / lançador de apps |
+| Super+Tab | Visão geral das áreas de trabalho |
+| Super+A / Super+N | Barra lateral esquerda / direita |
+| Super+V | Histórico da área de transferência |
+| Super+. | Emojis |
+| Super+/ | Lista de todos os atalhos |
+| Super+J | Mostrar / esconder a barra |
+| Ctrl+Super+T | Escolher wallpaper |
+| Ctrl+Super+Alt+T | Wallpaper aleatório |
+| Ctrl+Super+R | Reiniciar o Quickshell |
+| Ctrl+Alt+Del | Menu de sessão completo |
+
+**Janelas e áreas de trabalho**
+
+| Tecla | Ação |
+|---|---|
+| Super+Q | Fechar janela |
+| Super+F / Super+D | Tela cheia / maximizar |
+| Super+Alt+Espaço | Flutuar / encaixar |
+| Super+P | Fixar janela em todas as áreas |
+| Super+setas / Super+Shift+setas | Mudar foco / mover janela |
+| Super+1…0 | Ir para a área de trabalho |
+| Super+Alt+1…0 | Mandar janela para a área de trabalho |
+| Super+S | Área de rascunho (scratchpad) |
+| Super+arrastar (botão esq. / dir.) | Mover / redimensionar janela |
+
+**Apps e utilitários**
+
+| Tecla | Ação |
+|---|---|
+| Super+Enter (ou Super+T) | Terminal |
+| Super+E | Gerenciador de arquivos |
+| Super+W | Navegador |
+| Super+C | Editor de código |
+| Super+Shift+S | Print de uma área |
+| Print | Print da tela inteira (copia) |
+| Super+Shift+R | Gravar uma área da tela |
+| Super+Shift+X | OCR (copiar texto de uma área) |
+| Super+Shift+C | Conta-gotas de cor |
+| Super+Shift+P / Super+Shift+N | Play-pause / próxima música |
+| Super+L / Super+Shift+L | Bloquear / suspender |
 
 ## Créditos e licença
 
