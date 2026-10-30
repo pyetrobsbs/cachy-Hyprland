@@ -24,12 +24,12 @@ Meu rice de Hyprland no CachyOS, baseado no [illogical-impulse](https://github.c
 
 Digite o nome da música e aperte Enter: o yt-dlp baixa o áudio para `~/.cache/ii-music` e o mpv toca em segundo plano. Tem fila, favoritos, vinil girando atrás da capa e ondas do cava. Se não houver nada do player tocando, controla o Spotify/navegador via MPRIS.
 
-![Player de música com o cava](screenshots/player.gif)
+![Player de música com o cava](screenshots/player-lain.gif)
 
 <details>
 <summary>Print estático</summary>
 
-![Player de música](screenshots/player.jpg)
+![Player de música](screenshots/player-lain.jpg)
 
 </details>
 
