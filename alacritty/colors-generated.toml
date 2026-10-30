@@ -1,0 +1,37 @@
+# Gerado automaticamente pelo matugen — não edite direto, edite o template.
+# Inclua isso no seu ~/.config/alacritty/alacritty.toml com:
+#
+# [general]
+# import = ["~/.config/alacritty/colors-generated.toml"]
+
+[colors.primary]
+background = "#151217"
+foreground = "#e8e0e8"
+
+[colors.cursor]
+text   = "#151217"
+cursor = "#ddb9f8"
+
+[colors.selection]
+text       = "#3f2358"
+background = "#ddb9f8"
+
+[colors.normal]
+black   = "#151217"
+red     = "#ffb4ab"
+green   = "#d1c1d9"
+yellow  = "#f3b7bc"
+blue    = "#ddb9f8"
+magenta = "#4e4256"
+cyan    = "#663a3f"
+white   = "#e8e0e8"
+
+[colors.bright]
+black   = "#968e98"
+red     = "#ffdad6"
+green   = "#eeddf6"
+yellow  = "#ffdadc"
+blue    = "#f1daff"
+magenta = "#705289"
+cyan    = "#f3b7bc"
+white   = "#332f35"

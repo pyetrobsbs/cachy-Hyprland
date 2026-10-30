@@ -1,0 +1,17 @@
+# Usado por services/Cava.qml (player de música + barras da área de trabalho)
+[general]
+framerate = 45
+autosens = 1
+bars = 64
+
+[output]
+method = raw
+raw_target = /dev/stdout
+data_format = ascii
+ascii_max_range = 1000
+channels = mono
+mono_option = average
+
+[smoothing]
+monstercat = 1
+noise_reduction = 55
